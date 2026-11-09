@@ -5,8 +5,8 @@ window.KOTA_CONFIG={
     projectId:"kotaonlen",
     storageBucket:"kotaonlen.firebasestorage.app",
     messagingSenderId:"918733597305",
-    appId:"1:918733597305:web:SALIN_SISANYA_DARI_FIREBASE",
-    measurementId:"G-51RF2XPSJL"
+  appId: "1:918733597305:web:121ba96e3afeba4aa6c2a8",
+  measurementId: "G-51RF2XPSJL"
   },
   admins:["anaghavinaya@gmail.com","bagas.nasr@gmail.com"]
 };
