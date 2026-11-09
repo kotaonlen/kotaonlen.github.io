@@ -1,0 +1,10 @@
+window.KOTA_CONFIG={
+  firebase:{
+    apiKey:"AIzaSyDIxvukodnRe-GIJndPY3BorRfA7bF1smw",
+    authDomain:"kotaonlen.firebaseapp.com",
+    projectId:"kotaonlen",
+    storageBucket:"kotaonlen.firebasestorage.app",
+    messagingSenderId:"918733597305",
+    appId:"G-51RF2XPSJL"
+  },
+  admins:["anaghavinaya@gmail.com","bagas.nasr@gmail.com"]
